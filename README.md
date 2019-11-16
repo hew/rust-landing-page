@@ -4,6 +4,10 @@
 
 This is a landing page for a fictitious company. I built it to get some practice with Rust. Don't use this for anything. Not yet at least.
 
+## Getting Started
+
+  * `yarn run start`
+
 ## Features 
 
 - [x] Form Validation

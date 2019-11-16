@@ -41,10 +41,6 @@ pub fn view(email: &str, form_completed: &bool, display_err: &str) -> impl View<
                 C.justify_center,
                 C.px_6
             ],
-            // Form
-            // NOTE: when the page first loads, this string is "",
-            // and after a successful form submission, is "{is_form_complete: true}"
-            // Not sure how to deal with this serially, so this ghetto string check works instead
             div![
                class![""],
                match form_completed {

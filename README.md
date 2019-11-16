@@ -6,9 +6,10 @@ This is a landing page for a fictitious company. I built it to get some practice
 
 ## Features 
 
-- [ ] Design
 - [x] Form Validation
 - [x] POST request to Airtable API
+- [ ] Design (open to pull requests)
+- [ ] Preview (see: [#1](https://github.com/hew/rust-landing-page/issues/1))
 
 ## Notes
 

@@ -21,4 +21,8 @@ This is a landing page for a fictitious company. I built it to get some practice
   * Built from Martin's [quickstarter](https://github.com/MartinKavik/seed-quickstart-webpack)
   * Uses the [Seed framework](https://github.com/David-OConnor/seed)
 
+## Screenshot
+
+Until I get the preview working:
+
 ![Screenshot_2019-11-16 HomeBakers](https://user-images.githubusercontent.com/3103241/68992687-69324080-0823-11ea-9652-232d60e61abd.png)
